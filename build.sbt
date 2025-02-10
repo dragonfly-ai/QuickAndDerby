@@ -1,4 +1,4 @@
-name := "quickandderby.dragonfly.ai"
+name := "quickandderby"
 scalaVersion := "2.13.6"
 version := "0.022"
 organization := "ai.dragonfly.code"
